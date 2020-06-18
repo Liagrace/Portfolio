@@ -272,6 +272,8 @@ a:hover {
     }
 }
 
+
+
 .skill-section {
     text-align: center;
     margin-top: 20px;
@@ -300,12 +302,21 @@ a:hover {
 .slick-dots {
     background-image: linear-gradient(#F4b945,#F4b945,);
     
+    
 }
 
 .slick-dotted.slick-slider {
     margin-bottom: 0 !important; 
+    
 }
 
+.blurb p{
+    padding-top: 90px;
+    font-family: nixie one;
+    text-align: center;
+    font-size: 30px !important;
+    color: white;
+}
 
 #portfolio h2 {
     text-align: center;
@@ -595,6 +606,7 @@ a:hover {
 
 .footer-email a{
     color: black;
+    font-family: nixie one;
 }
 
 .footer-social-icons {

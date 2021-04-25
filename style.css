@@ -383,7 +383,33 @@ a:hover {
     background: #736ced;
 }
 
+#TypeTest .card:before {
+    background: #8AC926;
+}
 
+#iphoneProduct .card:before {
+    background: #736ced;
+}
+
+#weatherApp .card:before {
+    background: #EC7505;
+}
+
+#colorChanger .card:before {
+    background: #32CBFF;
+}
+
+#todoListApp .card:before {
+    background: #EF767A;
+}
+
+#starbucksPage .card::before {
+    background: #EF767A;
+}
+
+#iphoneProduct img {
+    width: 40%;
+}
 
 .container .card:hover:before 
 {
